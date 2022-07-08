@@ -1,0 +1,1 @@
+Incompatible return type! Test2 for method: next
