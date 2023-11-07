@@ -24,4 +24,4 @@ The provided makefile from the original file distribution was used to execute th
 
 ## License
 
-This project is for educational use only and is part of the coursework for _Κ24 System Programming_ at _DiT, NKUA_.
+This project is for educational use only and is part of the coursework for _Κ31 Compilers_ at _DiT, NKUA_.
